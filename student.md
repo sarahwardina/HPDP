@@ -31,30 +31,30 @@
 | 17  | Mohamad Azri Hadif Bin Mohammad Rizal  |azkatsuragi| [:octocat:](https://github.com/azkatsuragi) |
 | 18  | Muhammad Adam Fahmi Bin Mohd Taufiq     |adamochie    | [:octocat:](https://github.com/adamochie) |
 | 19  | Muhammad Amir Jamil Bin Jamlus          | AmirJamilJamlus            | [:octocat:](https://github.com/your_id) |
-| 20  | Muhammad Ashraaf Bin Saleh              |AshraafSaleh| [:octocat:](https://github.com/AshraafSaleh) |<a href="https://www.linkedin.com/in/muhammadashraafsaleh" ><img src="./images/linkedin.png" width="24px" height="24px" ></a> |
-| 21  | Muhammad Farhan Bin Ibrahim             |farhanibrhim             | [:octocat:](https://github.com/farhanibrhim) | <a href="https://www.linkedin.com/in/farhanibrhim/" ><img src="./images/linkedin.png" width="24px" height="24px" ></a> |
+| 20  | Muhammad Ashraaf Bin Saleh              |AshraafSaleh| [:octocat:](https://github.com/AshraafSaleh) |
+| 21  | Muhammad Farhan Bin Ibrahim             |farhanibrhim             | [:octocat:](https://github.com/farhanibrhim) |
 | 22  | Muhammad Fikri Bin Sharunazim           |fkrshrnzm             | [:octocat:](https://github.com/fkrshrnzm) |
 | 23  | Muhammad Harith Hakim Bin Othman        |harithothman             | [:octocat:](https://github.com/harithothman) |
-| 24  | Muhammad Hasan Bin Che Abdullah         |Hasan-Che    | [:octocat:](https://github.com/Hasan-Che) | <a href="https://www.linkedin.com/in/hasan-che-abdullah-811262218" ><img src="./images/linkedin.png" width="24px" height="24px" ></a> |
+| 24  | Muhammad Hasan Bin Che Abdullah         |Hasan-Che    | [:octocat:](https://github.com/Hasan-Che) |
 | 25  | Muhammad Hazim Bin Salman               |hazimSalman             | [:octocat:](https://github.com/your_id) |
-| 26  | Muhammad Iqmal Bin Sis                  |Miqmal             | [:octocat:](https://github.com/your_id) |<a href="[https://www.linkedin.com/in/drshahizan](https://www.linkedin.com/in/muhammad-iqmal18/)" ><img src="./images/linkedin.png" width="24px" height="24px" ></a> |
+| 26  | Muhammad Iqmal Bin Sis                  |Miqmal             | [:octocat:](https://github.com/your_id) |
 | 27  | Muhammad Izzuddin Bin Shabrin           |izzuddin125             | [:octocat:](https://github.com/izzuddin125) |
 | 28  | Muhammad Naquib Bin Zakaria             |nqbzkr01     | [:octocat:](https://github.com/nqbzkr01) |
 | 29  | Nadia Syafiqah Binti Zulkipli           |nadiamel     | [:octocat:](https://github.com/nadiamel) |
 | 30  | Ng Suang Joo                            |SuangJoo             | [:octocat:](https://github.com/SuangJoo) |
 | 31  | Ng Zi Xing                              |ngzxing      | [:octocat:](https://github.com/ngzxing) |
-| 32  | Nik Amirul Ariff Bin Amran              |NickimiyO    | [:octocat:](https://github.com/NickimiyO) |<a href="www.linkedin.com/in/amirul-amran-480072226" ><img src="./images/linkedin.png" width="24px" height="24px" ></a>
+| 32  | Nik Amirul Ariff Bin Amran              |NickimiyO    | [:octocat:](https://github.com/NickimiyO) |
 | 33  | Nur Khuzairie Zakwan Bin Mohd Zamri     |nurkhuzairiezakwan             | [:octocat:](https://github.com/nurkhuzairiezakwan) |
 | 34  | Nur Shuhada Safiah Binti Ayob           |ShuhadaSafiah            | [:octocat:](https://github.com/ShuhadaSafiah) |
 | 35  | Nurunnajwa Binti Zulkifli               |Nurunnajwa12             | [:octocat:](https://github.com/Nurunnajwa12) |
 | 36  | Sam Chia Yun                            |ChiayunSam   | [:octocat:](https://github.com/ChiayunSam) |
-| 37  | Sarah Wardina Binti Rafidin             |sarahwardina| [:octocat:](https://github.com/sarahwardina) |
+| 37  | Sarah Wardina Binti Rafidin             |sarahwardina| [:octocat:](https://github.com/sarahwardina) | <a href="https://www.linkedin.com/in/sarahwardina" ><img src="./images/linkedin.png" width="24px" height="24px" ></a> |
 | 38  | Soo Wan Ying                            |soowanying     | [:octocat:](https://github.com/soowanying) |
 | 39  | Umar Haziq Bin Muhamad Norhisham        |  umarhaziq           | [:octocat:](https://github.com/your_id) |
-| 40  | Wan Amirul Hafiq Bin Wan Huzaini        |Hafiq02             | [:octocat:](https://github.com/Hafiq02) | <a href="https://www.linkedin.com/in/amirul-hafiq/" ><img src="./images/linkedin.png" width="24px" height="24px" ></a> |
+| 40  | Wan Amirul Hafiq Bin Wan Huzaini        |Hafiq02             | [:octocat:](https://github.com/Hafiq02) |
 | 41  | Yasmeen Natasha Binti Hafiz Shahrel     |yasmeennatasha| [:octocat:](https://github.com/yasmeennatasha) |
 | 42  | Yew Rui Xiang                           |yruixiang   | [:octocat:](https://github.com/yruixiang) |
-| 43  | Mikhail Bin Yassin                       |mikhaiIy    | [:octocat:](https://github.com/mikhaiIy) | <a href="https://www.linkedin.com/in/mikhailyassin" ><img src="./images/linkedin.png" width="24px" height="24px" ></a> |
+| 43  | Mikhail Bin Yassin                       |mikhaiIy    | [:octocat:](https://github.com/mikhaiIy) |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
